@@ -1,0 +1,24 @@
+header nav {
+    background-color: #151614
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #cdd5d8;
+    text-decoration: none;
+}
+
+header nav ul li a:hover{
+    background-color: #616465
+}
